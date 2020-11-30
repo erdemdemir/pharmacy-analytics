@@ -1,0 +1,1 @@
+Contains downloaded raw data. Files will be moved to the _processed_data folder after being processed.
