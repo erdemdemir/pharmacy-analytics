@@ -1,1 +1,0 @@
-Contains processed data from _raw_data folder. Will be cleared manually for now.
